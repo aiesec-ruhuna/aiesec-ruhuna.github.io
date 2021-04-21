@@ -1191,14 +1191,13 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #151515;
+  color: #ffffff;
   margin: 0 3px;
   border-radius: 4px;
   width: 36px;
   height: 36px;
-  background: rgba(255, 255, 255, 0.8);
+  background: rgb(3, 126, 243);
   transition: ease-in-out 0.3s;
-  color: #484848;
   display: inline-flex;
   justify-content: center;
   align-items: center;
